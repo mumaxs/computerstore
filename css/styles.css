@@ -1,0 +1,47 @@
+body {
+  font-family: "Titillium Web";
+}
+
+.navbar-brand {
+  margin-left: 200px;
+}
+
+main {
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+}
+/* #row{
+  align-items-center justify-content-center
+} */
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  background-color: #f1f1f1;
+  width: 400px;
+  
+}
+.card-buttom {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  background-color: #f1f1f1;
+}
+.btn {
+  display: inline-block;
+}
+
+#loan {
+  display: none;
+}
+#repay-loan-button {
+  display: none;
+  
+}
+#laptop-column {
+  display: none;
+}
+#laptop-feature-header {
+  display: none;
+}
